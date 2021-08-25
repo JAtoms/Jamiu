@@ -1,0 +1,4 @@
+#Wed Aug 25 10:07:53 WAT 2021
+base.0=/Users/kaosichodim/StudioProjects/jamiu_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
